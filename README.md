@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://github.com/reeveng/reeveng/blob/master/svg.svg"/>
+
 <!--
 **liuxianyi/liuxianyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
