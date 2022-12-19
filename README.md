@@ -28,8 +28,8 @@
   <a href="https://github.com/liuxianyi/bilibili_opencv">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=liuxianyi&repo=bilibili_opencv" alt="Top Langs">
   </a>
-  <a href="https://github.com/liuxianyi/swimwear">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=liuxianyi&repo=swimwear" alt="Top Langs">
+  <a href="https://github.com/liuxianyi/2020MathE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=liuxianyi&repo=2020MathE" alt="Top Langs">
   </a>
 </details>
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liuxianyi&repo=bilibili_opencv)](https://github.com/liuxianyi/bilibili_opencv) -->
