@@ -6,6 +6,11 @@
 - 🔭 I’m currently working on **TJU**
 # Recent Activities
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#834](https://github.com/open-mmlab/mmengine/issues/834) in [open-mmlab/mmengine](https://github.com/open-mmlab/mmengine)
+2. 🗣 Commented on [#834](https://github.com/open-mmlab/mmengine/issues/834) in [open-mmlab/mmengine](https://github.com/open-mmlab/mmengine)
+3. 🗣 Commented on [#834](https://github.com/open-mmlab/mmengine/issues/834) in [open-mmlab/mmengine](https://github.com/open-mmlab/mmengine)
+4. 🗣 Commented on [#834](https://github.com/open-mmlab/mmengine/issues/834) in [open-mmlab/mmengine](https://github.com/open-mmlab/mmengine)
+5. 🗣 Commented on [#834](https://github.com/open-mmlab/mmengine/issues/834) in [open-mmlab/mmengine](https://github.com/open-mmlab/mmengine)
 <!--END_SECTION:activity-->
 
 <!-- <h3 align="left">Connect with me:</h3>
