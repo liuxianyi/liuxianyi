@@ -25,7 +25,9 @@
 <details>
   <summary>🔥 Hot</summary>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=liuxianyi&repo=bilibili_opencv" alt="Top Langs">
+  <a herf="https://github.com/liuxianyi/bilibili_opencv">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=liuxianyi&repo=bilibili_opencv" alt="Top Langs">
+  </a>
 </details>
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liuxianyi&repo=bilibili_opencv)](https://github.com/liuxianyi/bilibili_opencv) -->
 
