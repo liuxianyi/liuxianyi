@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liuxianyi&label=Profile%20views&color=0e75b6&style=flat" alt="liuxianyi" /> </p>
 
 - 👀 I am currently a student studying at **TJU**
-- 📖 Research Area Micro-video, Emotion distribution, Recommendation, Multi-modal
+- 📖 Research Area: Micro-video, Emotion distribution, Recommendation, Multi-modal
 - 🏓 Swimmin 🏊🏻‍♂️, Badminton🏸️
 
 # Recent Activities
