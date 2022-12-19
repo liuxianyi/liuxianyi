@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm liuxianyi</h1>
-<h3 align="center">Micro-Video Understanding</h3>
+<!-- <h3 align="center">Micro-Video Understanding</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liuxianyi&label=Profile%20views&color=0e75b6&style=flat" alt="liuxianyi" /> </p>
 
-- 🔭 I’m currently working on **TJU**
+- 👀 I am currently a student studying at **TJU**
+- 📖 Research Area Micro-video, Emotion distribution, Recommendation, Multi-modal
+- 🏓 Swimmin 🏊🏻‍♂️, Badminton🏸️
+
 # Recent Activities
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#834](https://github.com/open-mmlab/mmengine/issues/834) in [open-mmlab/mmengine](https://github.com/open-mmlab/mmengine)
