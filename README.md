@@ -9,8 +9,8 @@
 
 # Recent Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#868](https://github.com/open-mmlab/mmengine/pull/868) in [open-mmlab/mmengine](https://github.com/open-mmlab/mmengine)
-2. 🗣 Commented on [#834](https://github.com/open-mmlab/mmengine/issues/834) in [open-mmlab/mmengine](https://github.com/open-mmlab/mmengine)
+1. ❌ Closed PR [#868](https://github.com/open-mmlab/mmengine/pull/868) in [open-mmlab/mmengine](https://github.com/open-mmlab/mmengine)
+2. 💪 Opened PR [#868](https://github.com/open-mmlab/mmengine/pull/868) in [open-mmlab/mmengine](https://github.com/open-mmlab/mmengine)
 3. 🗣 Commented on [#834](https://github.com/open-mmlab/mmengine/issues/834) in [open-mmlab/mmengine](https://github.com/open-mmlab/mmengine)
 4. 🗣 Commented on [#834](https://github.com/open-mmlab/mmengine/issues/834) in [open-mmlab/mmengine](https://github.com/open-mmlab/mmengine)
 5. 🗣 Commented on [#834](https://github.com/open-mmlab/mmengine/issues/834) in [open-mmlab/mmengine](https://github.com/open-mmlab/mmengine)
